@@ -1,2 +1,2 @@
 # ebook-viewer
-electron app to read .epub files
+Electron app to read .epub files.
